@@ -91,6 +91,12 @@
             "url": "https://raw.githubusercontent.com/las-khanhvv/XMAS_002_Data/main/Videos/video5.mp4",
             "thumbnail": "https://raw.githubusercontent.com/las-khanhvv/XMAS_002_Data/main/Thumbnails/thumbnail5.png",
             "name": "Video5"
+        },
+        {
+            "id": 16,
+            "url": "https://raw.githubusercontent.com/las-khanhvv/XMAS_002_Data/main/Videos/video6.mp4",
+            "thumbnail": "https://raw.githubusercontent.com/las-khanhvv/XMAS_002_Data/main/Thumbnails/thumbnail6.png",
+            "name": "Video6"
         }
     ]
 }
